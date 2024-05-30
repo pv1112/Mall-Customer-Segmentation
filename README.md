@@ -1,1 +1,1 @@
-# Mall-Customer-Segmentation
+Mall Customer Segmentation employs K-Means Clustering to categorize shoppers based on similarities in purchasing behaviors and demographics. By analyzing data such as spending habits, age, and frequency of visits, this method identifies distinct customer groups, enabling tailored marketing strategies and personalized shopping experiences to enhance customer satisfaction and loyalty.
